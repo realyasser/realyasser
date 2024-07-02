@@ -1,8 +1,3 @@
-<div align="center">
-    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/154368175?v=4" width="150px" height="150px">
-</div>
-
-
 ### 👋 Introduction
 
 Hey, my name is Yasser and I like coding so much. I was born in 2007 and that's it pretty much.
